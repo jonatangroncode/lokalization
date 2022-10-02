@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Localization</string>
+    <string name="greeting">Hej och välkommen</string>
+    <string name="button_text">Tryck här</string>
+    <string name="new_greeting">Hej där %1$s, välkommen </string>
+
+</resources>
